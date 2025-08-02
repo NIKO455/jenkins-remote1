@@ -1,1 +1,1 @@
-print("Hello NIKO!! v2")
+printhkcaer("Hello NIKO!! v2")
